@@ -5,6 +5,8 @@ REM WARNING: Use this script only on devices you own or are authorized to access
 REM DISCLAIMER: The script requires the correct PIN code to function as intended.
 
 DELAY 1000
-STRING 123456
+STRING 3627
 DELAY 500
 ENTER
+DELAY 1000
+STRING 1590
